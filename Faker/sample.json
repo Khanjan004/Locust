@@ -1,0 +1,6 @@
+{
+    "User Id" : 38,
+    "Module" : "data_ingestion",
+    "Sub Module" : "datasets",
+    "Actions" : ["delete", "list", "create", "update", "get"]
+}

@@ -1,0 +1,75 @@
+{
+    "data_ingestion": {
+        "connectors": [
+            "list",
+            "get",
+            "create",
+            "update",
+            "delete"
+        ],
+        "datasources": [
+            "list",
+            "get",
+            "create",
+            "update",
+            "delete"
+        ],
+        "datasets": [
+            "list",
+            "get",
+            "create",
+            "update",
+            "delete"
+        ]
+    },
+    "model_building": {
+        "ml_backends": [
+            "list",
+            "get"
+        ],
+        "models": [
+            "list",
+            "get",
+            "create",
+            "update",
+            "delete"
+        ],
+        "model_versions": [
+            "list",
+            "get",
+            "create",
+            "update",
+            "delete"
+        ]
+    },
+    "data_analytics": {
+        "widgets": [
+            "list",
+            "get",
+            "create",
+            "update",
+            "delete"
+        ],
+        "dashboards": [
+            "list",
+            "get",
+            "create",
+            "update",
+            "delete"
+        ],
+        "reports": [
+            "list",
+            "get",
+            "create",
+            "update",
+            "delete"
+        ],
+        "alerts": [
+            "list",
+            "get",
+            "create",
+            "update",
+            "delete"
+        ]
+    }
+}
